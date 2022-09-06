@@ -1,8 +1,6 @@
 ### ✨ hi, i'm roo! (he/him)✨
 
-📰 I work on **WordPress for TNL** - the CMS for The Times & The Sunday Times.
-
-🤖 I'm in the Newsroom Transformation team in Content Platforms, based in TNB (but mostly my bedroom "office").
+📰 I work on **NewsPress for TNL** - the CMS for The Times & The Sunday Times.
 
 📫 Feel free to reach me at roo.hutton@news.co.uk or roo.hutton on Slack
 
