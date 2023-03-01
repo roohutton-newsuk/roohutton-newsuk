@@ -1,4 +1,4 @@
-### ✨ hi, i'm roo! (he/him)✨
+### ✨ hi, i'm roo! ✨
 
 📰 I work on **NewsPress for Times Media** - the new CMS for The Times & The Sunday Times.
 
